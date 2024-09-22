@@ -12,7 +12,7 @@ Freemium Model: Some advanced features are available through paid access to unlo
 ## Installation
 ### Clone the repository:
 git clone https://github.com/your-username/goal-setting-app.git
-<br/> Open the project in your preferred editor and follow the instructions for setup.
+<br><br> Open the project in your preferred editor and follow the instructions for setup.
 ### Install required dependencies:
 flutter pub get
 ### Run the app:
